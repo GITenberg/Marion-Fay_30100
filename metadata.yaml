@@ -1,0 +1,35 @@
+_repo: Marion-Fay_30100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: The novel contrasts two love affairs, each involving an aristocrat and
+  a commoner. Trollope vividly evokes the dull working lives, plain homes, blank streets,
+  and limited horizons of the dwellers in Paradise Row, using them as an ironic choric
+  commentary on the unattainable world of rank, wealth, and freedom, symbolized by
+  life in the great country houses.
+gutenberg_issued: '2009-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Quakers -- Fiction'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+title: 'Marion Fay: A Novel'
+url: http://www.gutenberg.org/ebooks/30100
